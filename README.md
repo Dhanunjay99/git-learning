@@ -1,2 +1,6 @@
 # git-learning
-git Practise
+git Practise 
+cloning command
+
+
+
